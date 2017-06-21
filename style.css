@@ -1,0 +1,29 @@
+body{
+    background-color:#FF5733;
+    font-family:'Arvo', serif;;
+    
+}
+#greeting{
+    
+   border:solid: 30px;
+   border-color:#3C10C4;
+   margin-top:150px;
+}
+
+#where{
+    border-bottom-style: dashed;
+    margin-top: 0 auto;
+    
+}
+img{
+    height:100px;
+    
+}
+.navbar-header{
+    background-color:#FF5733;
+    color:black;
+}
+.container{
+    margin-top:50px;
+ 
+}
